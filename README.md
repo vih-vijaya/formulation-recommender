@@ -21,7 +21,7 @@ An end-to-end machine learning project that recommends optimal chemical formulat
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the Repo
-git clone https://github.com/YOUR_USERNAME/formulation-recommender.git
+gitclone https://github.com/vih-vijaya/formulation-recommender.git
 cd formulation-recommender
 
 2️⃣ Set Up Virtual Environment
